@@ -1,4 +1,4 @@
-class Sll < Formula
+class KevinburkeSll < Formula
   desc ''
   homepage 'https://dl.equinox.io/github_com_kevinburke_sll/sll'
 
